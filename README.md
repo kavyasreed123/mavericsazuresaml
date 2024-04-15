@@ -1,2 +1,2 @@
 # mavericsazuresaml
-Maverics service extensions
+Mavericsazuresaml
